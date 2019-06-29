@@ -6,4 +6,6 @@
 
 之后在 `blog/source/_posts` 文件夹创建 `.md` 文件, 即可添加文章；
 
+使用 `hexo s` 启动本地server，实时查看文章效果；
+
 部署的话需要在 `blog` 目录执行 `hexo d` 命令即可。
