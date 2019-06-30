@@ -42,15 +42,14 @@ title: Jingle 赚闲钱项目 系统分析与设计
     - 8.4 [部署文档](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E8%AF%B4%E6%98%8E.md)
 
 - X1 meet_recording
-    - Inception meeting (2018/03/23)
-    - Iteration 1 meeting (2018/04/09)
-    - Iteration 2 meeting (2018/05/09)
-    - Iteration 3 meeting (2018/06/30)
+    - Meeting Recording
+    - Iteration X Meeting
 
 - X2 Tech/Work Report
 
     - [使用swagger编写TESTFul的API文档](https://blog.csdn.net/Yanzu_Wu/article/details/94354972)
     - [16340003-互联网产品设计和用户体验小科普](https://github.com/systemanalyse/blog/blob/master/source/_posts/TechReport16340003BaiYuge.md)
+    - [16340003-如何进行可用性测试](<https://github.com/systemanalyse/blog/blob/master/source/_posts/1.AboutJingle.md>)
 
 - X3 Final Report
     - [16340118-CarolSum](https://blog.csdn.net/bkjs626/article/details/94137876)
