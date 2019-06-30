@@ -114,4 +114,5 @@ tag: 个人报告
 
 [Jingle 产品需求文档](https://github.com/systemanalyse/blog/blob/master/source/_posts/Jingle%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3.md)
 
-[如何进行可用性测试](https://github.com/systemanalyse/blog/blob/master/source/_posts/Jingle%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3.md)
+[如何进行可用性测试](<https://github.com/systemanalyse/blog/blob/master/source/_posts/TechReport2_16340003BaiYuge.md>)
+
