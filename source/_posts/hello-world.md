@@ -20,7 +20,7 @@ title: Jingle 赚闲钱项目 系统分析与设计
 - 7、Design 设计
     - 7.1 UI design UI 设计
         - XX 用例 UI 设计
-    - 7.2 [Database design 数据库设计](https://github.com/systemanalyse/raiseMoney/blob/master/docs/Design%20%E8%AE%BE%E8%AE%A1/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
+    - 7.2 [Database design 数据库设计](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
     - 7.3 [模块及API 设计](https://github.com/systemanalyse/raiseMoney/blob/master/docs/Design%20%E8%AE%BE%E8%AE%A1/%E6%A8%A1%E5%9D%97-API%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
     - 7.4 [软件架构文档](https://github.com/systemanalyse/raiseMoney/blob/master/docs/Design%20%E8%AE%BE%E8%AE%A1/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.md)
     - 7.5 用例设计
