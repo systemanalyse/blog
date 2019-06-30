@@ -13,7 +13,7 @@ title: Jingle 赚闲钱项目 系统分析与设计
 - 6、Requirement specification 需求规格说明
     - 6.1 Usecase Diagram
     - 6.2 Use Cases 用例+活动图
-    - 6.3 Domian Model 领域模型
+    - 6.3 [Domian Model 领域模型](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3/resource/eer.png)
     - 6.4 State Model 状态模型
     - 6.5 System Sequence Diagram 功能模型
     - 6.6 Supplementary Requirements 补充性说明
