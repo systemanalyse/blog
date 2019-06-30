@@ -20,17 +20,13 @@ title: Jingle 赚闲钱项目 系统分析与设计
 - 7、Design 设计
     - 7.1 UI design UI 设计
         - XX 用例 UI 设计
-    - 7.2 Database design 数据库设计
-        - 7.2.1 用户及权限系统数据库设计
-        - 7.2.2 数据库ER模型图
-        - 7.2.3 XX子系统数据课设计
-        - 7.2.x 第三方数据评审结果
-    - 7.3 API 设计
-    - 7.4 软件架构文档
+    - 7.2 [Database design 数据库设计](https://github.com/systemanalyse/raiseMoney/blob/master/docs/Design%20%E8%AE%BE%E8%AE%A1/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
+    - 7.3 [模块及API 设计](https://github.com/systemanalyse/raiseMoney/blob/master/docs/Design%20%E8%AE%BE%E8%AE%A1/%E6%A8%A1%E5%9D%97-API%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
+    - 7.4 [软件架构文档](https://github.com/systemanalyse/raiseMoney/blob/master/docs/Design%20%E8%AE%BE%E8%AE%A1/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.md)
     - 7.5 用例设计
 - 8、生产规范与指南
     - 8.1 代码规范
-    - 8.2 REST API设计规范
+    - 8.2 [REST API设计规范](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E7%94%9F%E4%BA%A7%E8%A7%84%E8%8C%83%E4%B8%8E%E6%8C%87%E5%8D%97/API_RaiseMoney.md)
     - 8.3 框架目录设计与逻辑架构与 ECB 的关系
     - 8.4 部署文档
 - X1 meet_recording
@@ -42,7 +38,7 @@ title: Jingle 赚闲钱项目 系统分析与设计
 - X3 Final Report
     - [16340118-CarolSum](https://blog.csdn.net/bkjs626/article/details/94137876)
     - 16340003-BaiYuge
-    - 16340227-wyj16340227
+    - [16340227-wyj16340227](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E4%B8%AA%E4%BA%BA%E6%8A%A5%E5%91%8A/%E4%B8%AA%E4%BA%BA%E6%8A%A5%E5%91%8A-%E7%8E%8B%E6%B0%B8%E6%9D%B0-16340227.md)
     - [16340098-Chris-Ju](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E4%B8%AA%E4%BA%BA%E6%8A%A5%E5%91%8A/16340098_jubo.md)
     - 16340220-WangPerryWPY
     - 16340241-blesswxl
