@@ -43,7 +43,7 @@ title: Jingle 赚闲钱项目 系统分析与设计
     - [16340118-CarolSum](https://blog.csdn.net/bkjs626/article/details/94137876)
     - 16340003-BaiYuge
     - 16340227-wyj16340227
-    - 16340098-Chris-Ju
+    - [16340098-Chris-Ju](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E4%B8%AA%E4%BA%BA%E6%8A%A5%E5%91%8A/16340098_jubo.md)
     - 16340220-WangPerryWPY
     - 16340241-blesswxl
 - XX 建模练习
