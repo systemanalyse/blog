@@ -35,6 +35,7 @@ title: Jingle 赚闲钱项目 系统分析与设计
     - Iteration 2 meeting (2018/05/09)
     - Iteration 3 meeting (2018/06/30)
 - X2 Tech/Work Report
+    - [使用swagger编写TESTFul的API文档](https://blog.csdn.net/Yanzu_Wu/article/details/94354972)
 - X3 Final Report
     - [16340118-CarolSum](https://blog.csdn.net/bkjs626/article/details/94137876)
     - 16340003-BaiYuge
