@@ -75,7 +75,7 @@ tag: 个人报告
 
 ### 3.2 文档
 
-![](/Users/shiro/Desktop/gitpage/blog/source/_posts/images/wendang_contribute.png)
+![](./images/wendang_contribute.png)
 
 (注：因为第一次传文档时忘记配置邮箱，所以这里未计入当次的贡献率）
 
