@@ -40,6 +40,7 @@ title: Jingle 赚闲钱项目 系统分析与设计
     - 8.2 [REST API设计规范](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E7%94%9F%E4%BA%A7%E8%A7%84%E8%8C%83%E4%B8%8E%E6%8C%87%E5%8D%97/API_RaiseMoney.md)
     - 8.3 框架目录设计与逻辑架构与 ECB 的关系
     - 8.4 [部署文档](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E8%AF%B4%E6%98%8E.md)
+- 9、 [Software Test 软件测试文档](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3.md)
 
 - X1 meet_recording
     - [Meeting Recording](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/%20MeetingRecording.md)
