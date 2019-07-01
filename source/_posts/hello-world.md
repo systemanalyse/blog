@@ -17,11 +17,11 @@ title: Jingle 赚闲钱项目 系统分析与设计
 
 - 6、Requirement specification 需求规格说明
 
-    - 6.1 Usecase Diagram
-    - 6.2 Use Cases 用例+活动图
-    - 6.3 [Domian Model 领域模型](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3/resource/eer.png)
-    - 6.4 State Model 状态模型
-    - 6.5 System Sequence Diagram 功能模型
+    - 6.1 [Usecase Diagram](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E/%E7%94%A8%E4%BE%8B%2B%E6%B4%BB%E5%8A%A8%E5%9B%BE.png)
+    - 6.2 [Usercase Diagram and UML Activity Diagram 用例+活动图](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E/%E7%94%A8%E4%BE%8B%2B%E6%B4%BB%E5%8A%A8%E5%9B%BE.png)
+    - 6.3 [Domian Model 领域模型](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E/%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B.png)
+    - 6.4 [State Model 状态模型](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E/%E7%8A%B6%E6%80%81%E6%A8%A1%E5%9E%8B.md)
+    - 6.5 [System Sequence Diagram 功能模型](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E/%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9E%8B.md)
     - 6.6 Supplementary Requirements 补充性说明
 
 - 7、Design 设计
@@ -32,11 +32,11 @@ title: Jingle 赚闲钱项目 系统分析与设计
     - 7.3 [Database design 数据库设计](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
     - 7.4 [模块及API 设计](https://github.com/systemanalyse/raiseMoney/blob/master/docs/Design%20%E8%AE%BE%E8%AE%A1/%E6%A8%A1%E5%9D%97-API%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3.md)
     - 7.5 [软件架构文档](https://github.com/systemanalyse/raiseMoney/blob/master/docs/Design%20%E8%AE%BE%E8%AE%A1/%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3.md)
-    - 7.6 用例设计
+    - 7.6 [用例设计](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E/%E7%94%A8%E4%BE%8B%2B%E6%B4%BB%E5%8A%A8%E5%9B%BE.png)
 
 - 8、生产规范与指南
 
-    - 8.1 代码规范
+    - 8.1 [代码规范](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/8.1%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.md)
     - 8.2 [REST API设计规范](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E7%94%9F%E4%BA%A7%E8%A7%84%E8%8C%83%E4%B8%8E%E6%8C%87%E5%8D%97/API_RaiseMoney.md)
     - 8.3 框架目录设计与逻辑架构与 ECB 的关系
     - 8.4 [部署文档](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E8%AF%B4%E6%98%8E.md)
