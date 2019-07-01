@@ -9,7 +9,7 @@ title: Jingle 赚闲钱项目 系统分析与设计
 
 - 2、[Team profile 团队组建](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/2.%E5%9B%A2%E9%98%9F%E7%BB%84%E5%BB%BA.md)
 
-- 3、[Investigation 项目前期调研](<https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/3.%E9%A1%B9%E7%9B%AE%E9%9C%80%E6%B1%82%E8%B0%83%E7%A0%94%E5%88%86%E6%9E%90.md>)
+- 3、[Investigation 项目前期调研](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/3.%E9%A1%B9%E7%9B%AE%E9%9C%80%E6%B1%82%E8%B0%83%E7%A0%94%E5%88%86%E6%9E%90.md)
 
 - 4、[Vision 项目愿景](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/4.%E9%A1%B9%E7%9B%AE%E6%84%BF%E6%99%AF.md)
 
