@@ -47,9 +47,13 @@ title: Jingle 赚闲钱项目 系统分析与设计
 
 - X2 Tech/Work Report
 
-    - [使用swagger编写TESTFul的API文档](https://blog.csdn.net/Yanzu_Wu/article/details/94354972)
     - [16340003-互联网产品设计和用户体验小科普](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/TechReport16340003BaiYuge.md)
     - [16340003-如何进行可用性测试](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/TechReport2_16340003BaiYuge.md)
+    - [16340241-Android开发 Fragment的子Fragment+TabLayout+ViewPager 的使用](https://blog.csdn.net/wxlSAMA/article/details/94357598)
+    - [16340241-Android开发 TabLayout 选中改变字体大小颜色、指示线](https://blog.csdn.net/wxlSAMA/article/details/94358759)
+    - [16340241-Android开发 实现点击缩略图查看大图的功能](https://blog.csdn.net/wxlSAMA/article/details/94355377)
+    - [16340241-Android开发 图片加载库 Glide 的使用](https://blog.csdn.net/wxlSAMA/article/details/94352501)
+    - [使用swagger编写TESTFul的API文档](https://blog.csdn.net/Yanzu_Wu/article/details/94354972)
 
 - X3 Final Report
     - [16340118-CarolSum](https://blog.csdn.net/bkjs626/article/details/94137876)
@@ -57,7 +61,7 @@ title: Jingle 赚闲钱项目 系统分析与设计
     - [16340227-wyj16340227](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E4%B8%AA%E4%BA%BA%E6%8A%A5%E5%91%8A/%E4%B8%AA%E4%BA%BA%E6%8A%A5%E5%91%8A-%E7%8E%8B%E6%B0%B8%E6%9D%B0-16340227.md)
     - [16340098-Chris-Ju](https://github.com/systemanalyse/raiseMoney/blob/master/docs/%E4%B8%AA%E4%BA%BA%E6%8A%A5%E5%91%8A/16340098_jubo.md)
     - 16340220-WangPerryWPY
-    - 16340241-blesswxl
+    - [16340241-blesswxl](https://blog.csdn.net/wxlSAMA/article/details/94360793)
 
 - X4 Supplement
 
